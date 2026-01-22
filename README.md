@@ -1,6 +1,7 @@
 # Farlight 84 Ultimate Enhancement Tool 2026
 
 **Farlight 84 is the fast-paced futuristic battle royale shooter from Farlight Games, featuring 60-player matches, unique heroes with special abilities, jetpacks, grappling hooks, wall-running, high-speed vehicles, destructible environments, and intense gunplay. Choose from heroes like Luqueta, Phantoms, Hayato, Tatsuya, Captain, and more, master weapon attachments, skills, ultimates, and team synergies, loot airdrops, control zones, and climb ranked leaderboards in dynamic arenas with seasonal updates, new heroes, maps, modes, and events. With vibrant visuals, cross-platform play, and competitive depth — Farlight 84 delivers non-stop action. Now you have access to a complete set of tools for maximum control: perfect precision, full visibility, unlimited movement, enhanced combat stats and much more — dominate every drop and win every match without limitations.**
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/523ded46-1dfd-44cd-b2ef-39c4268e6723" />
 
 - **Status:** fully compatible (updated January 19, 2026 — works after all Farlight Games patches)
 - External tool — does not modify game files
